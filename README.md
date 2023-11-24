@@ -1,6 +1,6 @@
 # appdecrypt
 
-Decrypt application encrypted binaries on macOS when SIP-enabled.
+Decrypt application encrypted binaries on macOS when SIP-enabled (macOS 11.3 or below).
 
 This works well and compiles for iOS nicely, if you want use it at iOS devices, you can use build-ios.sh (Thanks @dlevi309).
 
@@ -120,6 +120,10 @@ but now works on macOS:
 
 https://github.com/meme/apple-tools/tree/master/foulplay
 
+
+## LICENSE
+
+This software is released under the GPL-3.0 license.
 
 
 ## Stargazers over time
